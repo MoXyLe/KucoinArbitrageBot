@@ -1,0 +1,8 @@
+api_key = '5a7dbf7272455a3b24bad060'
+api_secret = '22ba7c11-12b5-4594-9ae0-8e230175daa9'
+# api_key = '5b696d9b3232925ce2afafc0'
+# api_secret = '7337f9d1-b116-4513-ab73-52d3073aeadc'
+# api_key = '5af29ba232329249ec8b84c5'
+# api_secret = 'f42960ac-a619-4efc-a437-5af1390ed48c'
+api_key2 = '5af409fc3232925b06496d53'
+api_secret2 = '9bd377f5-4797-4160-9ce4-314ade00435b'
