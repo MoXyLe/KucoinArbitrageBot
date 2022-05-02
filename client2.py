@@ -1,9 +1,8 @@
 from kucoin.client import Client
 import kucoin
 import time
+from keys import api_key, api_secret
 
-api_key = '5a7dbf7272455a3b24bad060'
-api_secret = '22ba7c11-12b5-4594-9ae0-8e230175daa9'
 client = Client(api_key, api_secret)
 markets = client.get_trading_markets()
 trading_symbols = list()
